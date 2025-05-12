@@ -1,0 +1,48 @@
+.img1{
+    height: 75px;
+}
+.bordes{
+    border-radius: 10px;
+}
+.img2{
+    height: 480px;
+}
+.img22{
+    height: 400px;
+    width: 100%;
+}
+.tamañoimagen{
+    height: 750px;
+}
+.tamañoimagen1{
+    height: 400px;
+}
+.tamañoimagen2{
+    height: 700px;
+    width: 100%;
+}
+.tamañoimagen3{
+    height: 520px;
+    
+}
+.tamañoseñas{
+    height: 300x;
+    width: 80%;
+}
+
+.img-hover-zoom {
+ transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.img-hover-zoom:hover {
+  transform: scale(1.05);
+  box-shadow: 0 10px 20px rgba(181, 211, 243, 0.5); 
+}
+
+.navbar-nav .nav-item .nav-link {
+  transition: color 0.3s ease, background-color 0.3s ease;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+  color: #ffcc00; 
+  background-color: rgba(255, 255, 255, 0.2); }
